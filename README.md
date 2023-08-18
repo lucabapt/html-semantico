@@ -36,5 +36,20 @@ Ingredientes para o almoço:
 
   ![Doguin](https://upload.chien.com/img/23-_big-69368-du-petit-doguin.jpg?1648554298)
 
-  
+
          
+
+Este é um método `console.log()` do javascript.
+
+Esta é uma função do javaScript
+```javascript
+function selecionaElemento() {
+  const body = document.querySelector ('body');
+}
+```
+
+Frutas | Doces | Salgados 
+:----- | :----: | -----:
+banana | chocolate | coxinha
+maça | bala juquinha | esfira 
+uva | bombom | tapioca 
